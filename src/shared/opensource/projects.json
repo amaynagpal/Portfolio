@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Safeboard",
+      "createdAt": "2024-01-10T00:00:00Z",
+      "url": "https://github.com/amaynagpal/safeboard",
+      "description": "A comprehensive content moderation tool with AI integration using TypeScript and OpenAI",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "PrepPal",
+      "createdAt": "2023-11-15T00:00:00Z",
+      "url": "https://github.com/amaynagpal/PrepPal",
+      "description": "An interview bot using Next.js and React that evaluates candidate responses and generates detailed performance reports",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Next.js",
+          "iconifyClass": "logos-nextjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "logos-tailwindcss"
+        }
+      ]
+    }
+  ]
+}
