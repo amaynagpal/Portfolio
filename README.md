@@ -1,7 +1,3 @@
-<p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
-</p>
-
 <h1 align="center"> My Portfolio 🔥 </h1> 
 
 # Sections 📚
@@ -121,9 +117,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 - [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
 
-# illustrations 🍥
-
-- [UnDraw](https://undraw.co/illustrations)
 
 # License 📄
 
